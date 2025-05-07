@@ -1606,12 +1606,12 @@ def pipeline_controller():
 
 def main():
     st.set_page_config(
-        page_title="Research Paper Analysis Pipeline",
+        page_title="A fully Automated Systematic Review Application",
         page_icon="📚",
         layout="wide"
     )
 
-    st.title("📚 Research Paper Analysis Pipeline")
+    st.title("📚 A fully Automated Systematic Review Application")
     st.write("Developed by **Kanwar Hamza Shuja**")
 
     st.markdown("""
