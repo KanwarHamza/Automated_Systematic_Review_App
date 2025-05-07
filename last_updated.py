@@ -1615,7 +1615,7 @@ def main():
     st.write("Developed by **Kanwar Hamza Shuja**")
     st.write(Email: kanwarhamzashuja.gmail.com; kanwarhamza.shuja@unito.it)
     st.write(https://github.com/KanwarHamza)
-    st.write(7/05/2025)
+    st.write("7/05/2025")
 
     st.markdown("""
     A complete workflow for processing and analyzing research papers:
