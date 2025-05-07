@@ -1613,7 +1613,7 @@ def main():
 
     st.title("📚 A fully Automated Systematic Review Application")
     st.write("Developed by **Kanwar Hamza Shuja**")
-    st.write("Email: kanwarhamzashuja.gmail.com; kanwarhamza.shuja@unito.it")
+    st.write("Email: kanwarhamzashuja.gmail.com ; kanwarhamza.shuja@unito.it")
     st.write("https://github.com/KanwarHamza")
     st.write("7/05/2025")
 
