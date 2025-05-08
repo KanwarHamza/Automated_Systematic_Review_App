@@ -1,4 +1,4 @@
-Copyright [2025] [Kanwar Hamza Shuja]
+Copyright 2025 Kanwar Hamza Shuja
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
