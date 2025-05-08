@@ -736,7 +736,7 @@ def stage_primary_categorization():
         
         # COMMON OUTPUT OPTIONS
         st.markdown("### Output Options")
-        export_excel = st.checkbox("Export to Excel", True)
+        export_excel = st.checkbox("Export to Excel", False)
         show_details = st.checkbox("Show detailed results", True)
 
     # METHOD-SPECIFIC UI
