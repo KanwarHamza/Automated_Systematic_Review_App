@@ -98,5 +98,5 @@ df_clean = model.deduplicate(df, columns=['Title', 'Abstract'])
 **Contact**: kanwarhamzashuja@gmail.com  
 
 ## **DOI**
-- [[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15375377.svg)](https://doi.org/10.5281/zenodo.15375377)]
+- [[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15375377.svg)](https://zenodo.org/records/15375377)]
 
